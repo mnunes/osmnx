@@ -1,15 +1,11 @@
 # OSMnx Examples for Brazil
 
-OSMnx is a Python package to work with street networks: retrieve, construct,
-analyze, and visualize street networks (and more) from OpenStreetMap.
+`OSMnx` é um módulo para o python que trabalhar com redes de ruas em cidades. Ele permite buscar, construir e analisar grafos de ruas a partir do OpenStreetMap.
 
-### More info:
-  - [Overview of OSMnx](http://geoffboeing.com/2016/11/osmnx-python-street-networks/)
-  - [GitHub repo](https://github.com/gboeing/osmnx)
-  - [Examples, demos, tutorials](https://github.com/gboeing/osmnx-examples)
-  - [Documentation](https://osmnx.readthedocs.io/en/stable/)
-  - [Journal article and citation info](http://geoffboeing.com/publications/osmnx-complex-street-networks/)
+# Análise
 
-Aplicação em capitais brasileiras feita por [Marcus Nunes](https://marcusnunes.me/).
+O jupyter notebook disponibilizado aqui utiliza o módulo `OSMnx` para analisar a organização das ruas das capitais brasileiras.
+
+[Baseado no trabalho de Geoff Boeing](https://geoffboeing.com/2018/07/comparing-city-street-orientations/). Aplicação em capitais brasileiras feita por [Marcus Nunes](https://).
 
 
